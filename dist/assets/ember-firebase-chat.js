@@ -783,7 +783,7 @@ catch(err) {
 if (runningTests) {
   require("ember-firebase-chat/tests/test-helper");
 } else {
-  require("ember-firebase-chat/app")["default"].create({"name":"ember-firebase-chat","version":"0.0.0.5d2bf9ec"});
+  require("ember-firebase-chat/app")["default"].create({"name":"ember-firebase-chat","version":"0.0.0.a5c6a290"});
 }
 
 /* jshint ignore:end */
